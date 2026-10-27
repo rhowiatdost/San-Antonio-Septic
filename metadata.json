@@ -1,0 +1,6 @@
+{
+  "name": "San Antonio Septic",
+  "description": "Professional, production-quality website for San Antonio Septic LLC, offering full-service residential and commercial septic solutions including installation, maintenance, repairs, and pumping in South Central Texas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
